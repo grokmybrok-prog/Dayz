@@ -1,0 +1,6 @@
+{
+  "name": "DayZ Retexture Studio",
+  "description": "Advanced retexture assistant for DayZ with automatic normal/smdi channel maps creation and smart config.cpp generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
